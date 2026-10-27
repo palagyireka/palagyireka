@@ -6,7 +6,7 @@
 
 **I build thoughtful web applications — from the database and API to the interface people actually use.**
 
-Based in Budapest, Hungary · Interested in backend engineering, purposeful technology, and good design.
+Based in Budapest, Hungary · Interested in fullstack development, purposeful technology, and good design.
 
 [![Portfolio](https://img.shields.io/badge/Live_project-Pszichovilág-0969da?style=flat-square)](https://pszichovilag.hu/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rekapalagyi/)
